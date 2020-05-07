@@ -1,4 +1,4 @@
-# Analyze_A-B_Testing_Results
+# A-B_Testing_Results_and_Regression_Approach
 An A/B testing analysis and a regression approach project 
 
 Files:
